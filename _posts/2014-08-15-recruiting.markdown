@@ -1,7 +1,8 @@
 ---
 layout: post
 title: StyleShare 개발자 채용
-date: 2014-08-15 00:00:00
+author: 김현준
+author-email: khj@stylesha.re
 publish: true
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: StyleShare 서비스의 구조
-date: 2012-08-05 00:00:01
+author: 김현준
+author-email: khj@stylesha.re
 publish: true
 ---
 

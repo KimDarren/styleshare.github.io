@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "`git push —force` 이야기"
-date: 2014-02-06 00:00:00
+author: 김현준
+author-email: khj@stylesha.re
 publish: true
 ---
 
