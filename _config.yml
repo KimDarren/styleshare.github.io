@@ -1,7 +1,10 @@
 # Site settings
+highlighter: pygments
+paginate: 10
 title: StyleShare Engineering Blog
 email: dev@stylesha.re
-url: "http://styleshare.github.io"
+home_url: "http://styleshare.github.io"
+permalink: /:year/:month/:day/:title/
 
 # Build settings
 markdown: kramdown
