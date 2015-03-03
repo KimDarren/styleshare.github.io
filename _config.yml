@@ -4,7 +4,7 @@ paginate: 10
 title: StyleShare Engineering Blog
 email: dev@stylesha.re
 home_url: "http://styleshare.github.io"
-permalink: /:year/:month/:day/:title/
+env: prod
 
 # Build settings
 markdown: kramdown

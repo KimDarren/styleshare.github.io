@@ -1,22 +1,37 @@
 ---
-layout: default
+layout: main
 ---
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+  <div class="ss-team-wrapper">
+    <div class="ss-team">
+      {% for post in site.posts %}
+        <div>
+          <div class="ss-team-member clearfix">
+            <div class="ss-member-information-wrapper">
+              <div class="ss-member-information">
+                <div>
+                  <a href="{{ post.url | prepend: site.baseurl }}">
+                    <span class="ss-member-name">{{ post.title }}</span>
+                  </a>
+                </div>
+                <p class="ss-memeber-description">
+                  {{ post.description }}
+                </p>
+                <p class="text-muted">
+                  {{ post.date | date: "%Y년 %-m월 %-d일" }} |
+                  <a href="mailto:{{ post.author-email }}" class="ss-no-link">
+                    {{ post.author }}
+                  </a>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
