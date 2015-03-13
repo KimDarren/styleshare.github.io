@@ -3,7 +3,7 @@ layout: post
 title: "`git push —force` 이야기"
 author: 김현준
 author-email: khj@stylesha.re
-description: 훌륭한 엔지니어링 경험을 공유하고 싶어 만든 블로그이지만, 아직까지는 그런 일이 없었던지라, 창피한 장애 경험을 공유하고자 합니다.
+excerpt: 훌륭한 엔지니어링 경험을 공유하고 싶어 만든 블로그이지만, 아직까지는 그런 일이 없었던지라, 창피한 장애 경험을 공유하고자 합니다.
 publish: true
 ---
 
