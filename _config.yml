@@ -1,50 +1,49 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://example.com" # the base hostname & protocol for your site
+url: "http://styleshare.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Type Theme
+  title: StyleShare
   avatar: avatar.png
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
-  
+
   # Header and footer text
-  header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-     
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+  # header_text: >
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
-  
+    © <a href="http://about.stylesha.re">StyleShare Inc.</a>
+    All rights reserved.
+    Powered by <a href="https://pages.github.com/"> GitHub Pages.</a>
+
   # Icons
-  rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  rss: true
+  email_address: "dev@stylesha.re"
   behance:
-  bitbucket: 
-  dribbble: 
-  facebook: 
-  flickr: 
-  github: "rohanchandra/type-theme"
-  google_plus: 
-  instagram: 
-  linkedin:  # Full URL
-  pinterest: 
-  reddit: 
-  soundcloud: 
+  bitbucket:
+  dribbble:
+  facebook: "StyleShareApp"
+  flickr:
+  github: "styleshare"
+  google_plus:
+  instagram: "styleshare_kr"
+  linkedin:
+  pinterest:
+  reddit:
+  soundcloud:
   stack_exchange:  # Full URL
-  steam: 
-  tumblr: 
-  twitter: "twitter"
-  wordpress: 
-  youtube: 
-  
+  steam:
+  tumblr: "styleshare"
+  twitter: "styleshare_twt"
+  wordpress:
+  youtube:
+
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
-  katex: true # Enable if using math markup 
-  
+  katex: true # Enable if using math markup
+
   # Localization strings
   str_follow_on: "Follow on"
   str_rss_follow: "Follow RSS feed"
@@ -52,7 +51,7 @@ theme:
   str_next: "Next"
   str_prev: "Prev"
   str_continue_reading: "Continue reading"
-  
+
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
 
