@@ -8,7 +8,9 @@ layout: default
 
     <p class="meta">
     {{ page.date | date: "%B %-d, %Y" }}
-    {% if page.author %} - {{ page.author }}{% endif %}
+    {% if page.author %} -
+      <a href="mailto:{{page.author-email}}">{{ page.author }}</a>
+    {% endif %}
     </p>
   </header>
 
