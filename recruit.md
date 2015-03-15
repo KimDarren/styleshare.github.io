@@ -1,13 +1,9 @@
 ---
-layout: post
-title: StyleShare 개발자 채용
-author: 김현준
-author-email: khj@stylesha.re
-description: 3년 전 앱스토어를 통해 소소하게 첫 선을 보인 StyleShare가 어느덧 100만명의 패션 피플들과 수 많은 브랜드들에게 사랑받는 대한민국 No.1 모바일 패션 플랫폼으로 성장하였습니다. 저희들과 함께 StyleShare를 아시아 최대의 패션 플랫폼으로 함께 만들어나갈 분들을 찾고 있습니다.
-publish: true
+layout: page
+title: Recruit
 ---
 
-![](/images/2014-08-15/header.png)
+![](/img/recruit/header.png)
 
 안녕하세요. StyleShare 개발팀입니다.
 
@@ -53,4 +49,4 @@ publish: true
 * [About StyleShare](http://about.stylesha.re/), [Team &amp; Members](http://about.stylesha.re/about/team/)
 * [디자이너](http://blog.stylesha.re/220092344260), [광고 AE](http://blog.stylesha.re/220082608073), [커뮤니티 매니저](http://blog.stylesha.re/220082605784), [에디터](http://blog.stylesha.re/220074552770) 포지션 채용 공고 (여기에는 에필로그가 담겨있어요. ^^)
 
-![](/images/2014-08-15/footer.png)
+![](/img/recruit/footer.png)

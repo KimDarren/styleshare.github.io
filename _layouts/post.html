@@ -1,38 +1,35 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    {% include head.html %}
-  </head>
+---
+layout: default
+---
+<article {% if page.feature-img %}class="feature-image"{% endif %}>
 
-  <body>
+  <header style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}')">
+    <h1 class="title">{{ page.title }}</h1>
 
-    {% include nav.html %}
+    <p class="meta">
+    {{ page.date | date: "%Y년 %-m월 %-d일" }} -
+    {% if page.author %}
+      <a href="mailto:{{page.author-email}}">{{ page.author }}</a>
+    {% endif %}
+    </p>
+  </header>
 
-    <div>
-      <div class="text-center ss-subpage-title">
-        <p class="ss-title margin-bottom0">
-          {{ page.title }}
-        </p>
-        <p class="text-muted">
-          {{ page.date | date: "%Y년 %-m월 %-d일" }} |
-          <a href="mailto:{{ post.author-email }}" class="ss-no-link"
-            <span class="ss-member-title">{{ page.author }}</span>
-          </a>
-        </p>
-      </div>
-    </div>
+  <section class="post-content">
+    {{ content }}
+  </section>
 
-    <div class="ss-content-body body-bg-color padding-bottom12">
-      <div class="container">
-        <div class="col-md-8 col-md-offset-2">
-          {{ content }}
-        </div>
-      </div>
-    </div>
+  <center>
+    <a class="button" href="{{ site.url }}">목록으로 돌아가기</a><br />
+  </center>
+  <div class="fb-like" data-href="{{ site.url }}{{ page.url }}"
+       data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 
-    {% include footer.html %}
-
-    {% include javascripts.html %}
-
-  </body>
-</html>
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=190144500999654&version=v2.0";
+    fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+</article>

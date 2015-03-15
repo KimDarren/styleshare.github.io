@@ -3,7 +3,7 @@ layout: post
 title: StyleShare 서비스의 구조
 author: 김현준
 author-email: khj@stylesha.re
-description: 스타일쉐어의 엔지니어링 블로그의 첫 글에서는 저희 서비스의 스택을 소개하도록 하겠습니다.
+excerpt: 스타일쉐어의 엔지니어링 블로그의 첫 글에서는 저희 서비스의 스택을 소개하도록 하겠습니다.
 publish: true
 ---
 
@@ -46,3 +46,4 @@ publish: true
 ### 함께해요
 
 저희와 비슷한 환경에서 개발하시는, 같은 도구를 사용하시는, 저희에게 도움을 주고 싶으시거나, 저희에게 (저희가 도와드릴 수 있다면) 도움을 받고 싶으신, 또는 그저 많은 이야기를 나누고 싶은 분들까지 많은 분들과의 소통과 교류가 많았으면 좋겠습니다. IRC를 하시는 분들은 오징어 네트워크(irc.ozinger.org)의 #styleshare-tech 채널로 놀러오세요.
+
