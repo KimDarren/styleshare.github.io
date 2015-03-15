@@ -10,8 +10,10 @@ layout: default
 
   <div class="posts">
     {% for post in paginator.posts %}
+    {% if post.publish == false %}
+      {% continue %}
+    {% endif %}
     <div class="post-teaser">
-
       <header>
         <h1>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
