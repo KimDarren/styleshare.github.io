@@ -14,7 +14,6 @@ title: We're hiring
 * 테스트와 기술 문서를 작성하고 [지속적 통합]
 
 [Slack]: https://slack.com/
-[GitHub]: https://github.com
 [Pull Request]: https://help.github.com/articles/using-pull-requests
 [스크럼]: http://ko.wikipedia.org/wiki/스크럼_(애자일_개발_프로세스)
 [JIRA]: https://www.atlassian.com/software/jira
@@ -33,7 +32,7 @@ title: We're hiring
 
 #### 지원해주세요
 
-* [`join+dev@stylesha.re`] 로 자유 형식의 이력서, 포트폴리오(GitHub, [BitBucket] 등의 프로필이나 기술 블로그 주소도 괜찮습니다), 희망 근무조건 등을 포함하여 이메일을 보내주세요.
+* [`join+dev@stylesha.re`] 로 자유 형식의 이력서, 포트폴리오([GitHub], [BitBucket] 등의 프로필이나 기술 블로그 주소도 괜찮습니다), 희망 근무조건 등을 포함하여 이메일을 보내주세요.
 
 [`join+dev@stylesha.re`]: mailto:join+dev@stylesha.re
 [BitBucket]: https://bitbucket.org/
@@ -53,3 +52,6 @@ title: We're hiring
 [광고 AE]: http://blog.stylesha.re/220082608073
 [커뮤니티 매니저]: http://blog.stylesha.re/220082605784
 [에디터]: http://blog.stylesha.re/220074552770
+
+
+[GitHub]: https://github.com
