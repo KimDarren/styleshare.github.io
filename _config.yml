@@ -1,6 +1,8 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://styleshare.github.io" # the base hostname & protocol for your site
+icon: "/img/styleshare_icon.png"
+title: StyleShare Tech Blog
 
 # THEME-SPECIFIC CONFIGURATION
 theme:

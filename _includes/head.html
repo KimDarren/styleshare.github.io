@@ -1,30 +1,42 @@
 <head>
 	<meta charset="utf-8">
-	<title>{% if page.title %}{{ page.title }} |{% endif %} {{ site.theme.title }}</title>
-	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.theme.description }}{% endif %}">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta http-equiv="X-Frame-Options" content="sameorigin">
-	
+  <title>StyleShare Tech Blog</title>
+  {% if page.title %}
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="http://styleshare.github.io{{ page.url }}">
+    <meta property="og:site_name" content="StyleShare Tech Blog">
+    <meta property="og:description" content="{{ page.excerpt }}">
+  {% else %}
+    <meta property="og:title" content="{{ site.title }}">
+    <meta property="og:type" content="blog">
+    <meta property="og:url" content="{{ site.url }}">
+    <meta property="og:site_name" content="StyleShare Tech Blog">
+    <meta property="og:description" content="StyleShare 팀원들이 겪은 다양한 기술 또는 기술적 경험들을 공유합니다.">
+  {% endif %}
+  <meta property="og:image" content="{{ site.url }}{{ site.icon }}">
+
 	<!-- CSS -->
 	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-	
+
 	<!--Favicon-->
   <link rel="shortcut icon"
         href="{{ "https://www.stylesha.re/favicon.ico" | prepend: site.baseurl }}"
         type="image/x-icon">
-	
+
 	<!-- Canonical -->
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-	
+
 	<!-- RSS -->
 	<link rel="alternate" type="application/atom+xml" title="{{ site.theme.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
-	
+
 	<!-- Font Awesome -->
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-	
+
 	<!-- Google Fonts -->
 	<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,700italic,400italic" rel="stylesheet" type="text/css">
-	
+
   <!-- KaTeX -->
 	{% if site.theme.katex %}
 	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.1.1/katex.min.css">
