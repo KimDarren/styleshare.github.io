@@ -1,9 +1,21 @@
 <head>
 	<meta charset="utf-8">
-	<title>{% if page.title %}{{ page.title }} |{% endif %} {{ site.theme.title }}</title>
-	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.theme.description }}{% endif %}">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta http-equiv="X-Frame-Options" content="sameorigin">
+  <title>StyleShare Tech Blog</title>
+  {% if page.title %}
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="http://styleshare.github.io{{ page.url }}">
+    <meta property="og:site_name" content="StyleShare Tech Blog">
+    <meta property="og:description" content="{{ page.excerpt }}">
+  {% else %}
+    <meta property="og:title" content="StyleShare Tech Blog">
+    <meta property="og:type" content="blog">
+    <meta property="og:url" content="{{ site.url }}">
+    <meta property="og:site_name" content="StyleShare Tech Blog">
+    <meta property="og:description" content="StyleShare 팀원들이 겪은 다양한 기술 또는 기술적 경험들을 공유합니다.">
+  {% endif %}
+  <meta property="og:image" content="https://www.stylesha.re/favicon.ico">
 
 	<!-- CSS -->
 	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
