@@ -18,7 +18,7 @@ title: We're hiring
 [Pull Request]: https://help.github.com/articles/using-pull-requests
 [스크럼]: http://ko.wikipedia.org/wiki/스크럼_(애자일_개발_프로세스)
 [JIRA]: https://www.atlassian.com/software/jira
-[짝 프로그래밍]: http://en.wikipedia.org/wiki/Pair_programming
+[짝 프로그래밍]: http://xper.org/wiki/xp/PairProgramming
 [지속적 통합]: http://ko.wikipedia.org/wiki/지속적인_통합
 
 #### 근무 조건
