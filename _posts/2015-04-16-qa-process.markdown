@@ -12,7 +12,7 @@ publish: true
 
 ##1. QA일정
 
-![Imgur](http://i.imgur.com/2w3O7B2.png)
+![Imgur](http://i.imgur.com/WCu4MgX.png)
 
 스타일쉐어 앱의 릴리즈 주기는 4주에 1회로 진행하고 있습니다. 그 중 1주 단위의 스프린트가 3주 동안 진행되고 4주차 스프린트는 QA 및 릴리즈 스프린트로 진행됩니다. 매 스프린트에서 담당 엔지니어가 수정 혹은 추가된 단위기능에 대해 간단한 테스트가 끝나면 4주차에 알파 빌드 및 전 구성원이 설치/사용해보고 동시에 1차 QA(통합 테스트)를 진행하게 됩니다. 1차 QA의 버그들을 수정하면 베타버전 빌드 및 최종 확인을 진행한뒤 문제없으면 바로 릴리즈가 되어 사용자에게 신규 버전을 제공합니다.
 
@@ -46,7 +46,7 @@ publish: true
 ##4. 도입효과
 
 
-###1) Crash Free User/Session(Crashlytics)
+###1) Crash Free Sessions(Crashlytics)
 
 ![Imgur](http://i.imgur.com/y6wS6Pt.png)
 
