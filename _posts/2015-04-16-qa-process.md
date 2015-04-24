@@ -2,7 +2,7 @@
 layout: post
 title: 소규모팀에 적합한 QA 프로세스 구축기(스타일쉐어팀의 QA방식)
 author: 박성환
-author-email: https://twitter.com/UnsteadyFlow
+author-email: walter@styleshare.kr
 excerpt: 스타일쉐어 앱의 안정성을 위해 저희팀에서 진행중인 QA과정에 대해서 공유해보고자 합니다.
 publish: true
 ---
