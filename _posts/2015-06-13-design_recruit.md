@@ -5,6 +5,7 @@ author: StyleShare
 author-email: design@stylesha.re
 excerpt: StyleShare와 함께 할 디자이너를 모십니다.
 publish: true
+og_image_url: http://i.imgur.com/PuBYy2n.png
 ---
 
 ![Imgur](http://i.imgur.com/PuBYy2n.png)
