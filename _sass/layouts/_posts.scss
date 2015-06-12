@@ -13,9 +13,6 @@ article {
   a:hover {
     @extend %link-hover;
   }
-  .post-content {
-    text-indent: 1em;
-  }
   .footnotes {
     font-size: 0.9em;
   }
