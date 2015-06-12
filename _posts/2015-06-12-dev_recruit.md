@@ -5,6 +5,7 @@ author: StyleShare
 author-email: dev@stylesha.re
 excerpt: StyleShare에서 ‘백엔드 개발자'를 모십니다. 답답한 판교와 구디가디를 떠나 압구정에서 일하시고 싶으신 분. 고양이와 코드로 교감하고 싶으신 분, Slack을 통해 아이유에게 아침마다 리포트를 받고 싶으신 분.
 publish: true
+og_image_url: http://i.imgur.com/sSTuK8G.png
 ---
 
 ![Imgur](http://i.imgur.com/sSTuK8G.png)
