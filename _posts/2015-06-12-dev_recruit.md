@@ -49,8 +49,16 @@ og_image_url: http://i.imgur.com/sSTuK8G.png
 
 ![Imgur](http://i.imgur.com/FFL37md.png)
 
-###스타일쉐어에 대해 더 알고 싶다면,
-* 스타일쉐어는 2011년 패션 SNS로 출발하여 성장한 대한민국의 대표적인 모바일 패션 플랫폼입니다.
-* StyleShare on Web( https://www.stylesha.re/ ) / App Store / Google Play
-* [About StyleShare, Team & Members](http://about.stylesha.re/ )
-* [Team Blog](http://styleshare.github.io)
+### 스타일쉐어에 대해 더 알고 싶으시다면, 
+
+- [웹사이트](http://www.stylesha.re)
+
+- [모바일앱](http://stylesha.re/downloads)
+
+- [회사 사이트](http://about.stylesha.re)
+
+- [팀 블로그](http://styleshare.github.io)
+
+- [페이스북](http://www.facebook.com/styleshareapp)
+
+- [인스타그램](http://www.instagram.com/styleshare_kr)
