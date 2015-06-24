@@ -1,6 +1,6 @@
 ---
 layout: post
-title: StyleShare 디자이너 채용
+title: StyleShare 디자이너 채용 (채용완료)
 author: StyleShare
 author-email: design@stylesha.re
 excerpt: 하루에 20만명이 사용하는 어플리케이션을 직접 디자인하며 자신의 경험과 스타일을 녹여내보세요. 작지만 끈끈한 스타일쉐어 디자인팀은 언제든지 당신이 제안할 디자인에 귀기울이고 받아들일 준비가 되어있습니다. StyleShare와 함께 할 디자이너를 모십니다!
