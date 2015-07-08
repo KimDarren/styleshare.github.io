@@ -1,14 +1,15 @@
 ---
 layout: post
-title: StyleShare 엔지니어 채용
+title: StyleShare 엔지니어 채용(진행 중)
 author: StyleShare
 author-email: dev@stylesha.re
 excerpt:  답답한 판교와 구디가디를 떠나 압구정에서 일하시고 싶으신 분. 고양이와 코드로 교감하고 싶으신 분, Slack을 통해 아이유에게 아침마다 리포트를 받고 싶으신 분. StyleShare에서 ‘백엔드 개발자'를 모십니다.
 publish: true
-og_image_url: http://i.imgur.com/sSTuK8G.png
+og_image_url: http://i.imgur.com/hvralOg.png
+
 ---
 
-![Imgur](http://i.imgur.com/sSTuK8G.png)
+![Imgur](http://i.imgur.com/hvralOg.png)
 
 안녕하세요! 저희는 대한민국 최대의 패션뷰티 플랫폼 “스타일쉐어”를 개발하고 운영하는 팀입니다.
 
@@ -25,7 +26,7 @@ og_image_url: http://i.imgur.com/sSTuK8G.png
 
 ###모집 일정
 
-- 지원마감: 2015년 6월 30일 (채용시 조기 마감)
+- 지원마감: 2015년 7월 15일 (채용시 조기 마감)
 
 ###우리는 이렇게 일하고 있습니다.
 
