@@ -104,7 +104,7 @@ StyleShare는 런칭한 지 3년만에 100만 명의 패션뷰티에 깊은 관�
 
 저희 외에도 저희 사무실에는, 이런 친구들이 있습니다.
 
-<img src="http://i.imgur.com/1SkQStA.png" height=320>
+<img src="http://i.imgur.com/1SkQStA.png" height="320">
 
 사원번호 10번과 11번, 스타일쉐어의 사무실 냥이들 단 & 추입니다.
 
@@ -139,7 +139,7 @@ Slack을 통해 팀별로, 프로젝트별, 이슈별로 방이 개설되어 있
 
 또 이야기하고!
 
-<img src="http://i.imgur.com/h9L2jmK.png" height=320>
+<img src="http://i.imgur.com/h9L2jmK.png" height="320">
 
 지저분한 사무실 사진을 여러장 붙이고 나니 조금 부끄럽습니다. (팀원들에게 혼날지도 모르겠네요)
 
