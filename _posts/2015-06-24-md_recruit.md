@@ -4,7 +4,7 @@ title: StyleShare MD 채용
 author: StyleShare
 author-email: biz@stylesha.re
 excerpt: 대한민국 최대 패션 플랫폼에서 주도적으로 자신의 역량을 마음껏 펼치고 싶으신 분, 상상하는 모든 쇼핑 형태를 마음껏 구현해 줄 개발자와의 긴밀한 협업에 목마른 분, 급변하는 모바일 시대에 가장 최전선에서 커머스의 트렌드 변화를 이끌고자 하시는 분. 지금, StyleShare에서 함께 할 MD를 모십니다. 
-publish: true
+publish: false
 og_image_url: http://i.imgur.com/qOv4zcv.jpg
 ---
 
