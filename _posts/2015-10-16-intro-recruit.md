@@ -20,15 +20,13 @@ og_image_url: http://i.imgur.com/GsdUt6u.png
 많은 사람들이 사용하는 서비스를 만들어간다는 것은 참 즐거운 일입니다. 저희와 함께 StyleShare를 더욱 다양한 패션 산업의 이해관계자들이 비즈니스를 성장시킬 수 있는 플랫폼으로 이끌어갈 수 있는 인재 분들을 모시고자 합니다. 열정적인 팀원들과 함께, 당신이 사랑하는 일을 하면서, 함께 회사의 성장을 리드하고자 하는 분들이 계시다면 스타일쉐어 팀과 함께해요 더욱 상세한 내용은 아래 분야별 공고를 확인해주세요!
 
 
+#### - [어카운트매니저 (경력) | 비즈니스팀 광고파트 (진행 중)](http://styleshare.github.io/2015/10/16/am-recruit.html)
 
+#### - [CS담당 (경력) | 비즈니스팀 커머스파트 (진행 중)](http://styleshare.github.io/2015/10/16/cs-recruit.html)
 
-#### [어카운트매니저 (경력) | 비즈니스팀 광고파트 (진행 중)](http://styleshare.github.io/2015/10/16/am-recruit.html)
-#### [CS담당 (경력) | 비즈니스팀 커머스파트 (진행 중)](http://styleshare.github.io/2015/10/16/cs-recruit.html)
-#### [MD (경력/신입) | 비즈니스팀 커머스파트 (진행 중)](http://styleshare.github.io/2015/10/14/md-recruit.html)
-#### [뷰티에디터 (경력) | 마케팅팀 (진행 중)](http://styleshare.github.io/2015/10/16/beautyeditor-recruit.html)
+#### - [MD (경력/신입) | 비즈니스팀 커머스파트 (진행 중)](http://styleshare.github.io/2015/10/14/md-recruit.html)
 
-
-
+#### - [뷰티에디터 (경력) | 마케팅팀 (진행 중)](http://styleshare.github.io/2015/10/16/beautyeditor_recruit.html)
 
 
 ###에필로그. 스타일쉐어 팀원들의 일상.
@@ -124,4 +122,5 @@ join@stylesha.re 로 연락 주시면, 더 많은 이야기를 들려드릴 수 
 <img src="http://i.imgur.com/BcqBv9U.png">
 
 ### Join@stylesha.re
+
 ### 함께해요!
