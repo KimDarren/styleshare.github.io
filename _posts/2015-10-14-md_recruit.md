@@ -1,11 +1,11 @@
 ---
 layout: post
-title: StyleShare 패션MD 채용(진행 중)
+title: StyleShare MD 채용 (진행 중)
 author: StyleShare
 author-email: join@stylesha.re
-excerpt:  StyleShare 의 사용자들에게 사랑받을 브랜드들을 누구보다 빠르게 발굴하여 완판신화를 만들고 StyleShare를 통해 입점 브랜드들의 성장을 즐겁게 도와나갈 MD 분을 모십니다.
+excerpt:  StyleShare 사용자들에게 사랑받을 브랜드를 발굴하여 완판신화를 만들고 브랜드들의 성장을 즐겁게 도와나갈 MD 분을 모십니다.
 publish: true
-og_image_url: http://i.imgur.com/hvralOg.png
+og_image_url: http://i.imgur.com/eQK8shR.png
 ---
 
 ###StyleShare MD 채용 (진행 중)
@@ -81,7 +81,7 @@ StyleShare의 사용자들에게 사랑받을 브랜드들을 발굴하여 완�
 
 이제, 각 팀을 소개해드립니다. 먼저 개발팀! 
 
-<사진필요함> 
+<img src="http://i.imgur.com/kIEgkL3.png" width=320>
 
 수 백만 사용자들이 단 0.1초라도 더 빠르게, 어디에서든 버그 없이 안정적으로 스타일을 공유할 수 있도록 StyleShare 플랫폼을 개발하고 운영하는 개발팀. 포털에서 유수의 대국민 서비스를 개발하셨던 CTO 형님의 안정적인 지휘와 뛰어난 창의력과 대응력을 지닌 아우 개발자들의 환상적인 팀웍을 자랑하는 팀입니다. 
 
@@ -146,8 +146,8 @@ Slack을 통해 팀별로, 프로젝트별, 이슈별로 방이 개설되어 있
 
 <img src="http://i.imgur.com/BcqBv9U.png">
 
-Join@stylesha.re 
-함께해요! 
+###Join@stylesha.re 
+###함께해요! 
 
 
 
