@@ -5,7 +5,7 @@ author: StyleShare
 author-email: join@stylesha.re
 excerpt:  안녕하세요, StyleShare 팀에서 올해 두 번째 오픈 리쿠르팅을 진행합니다. 어카운트매니저, MD, CS담당을 모십니다. 많이 지원해주세요! 
 publish: true
-og_image_url: http://i.imgur.com/hvralOg.png
+og_image_url: http://i.imgur.com/GsdUt6u.png
 ---
 
 ###올 해 두 번째 리쿠르팅: No.1 패션 모바일서비스 StyleShare에서 함께하실 분을 모십니다. 
@@ -51,14 +51,13 @@ og_image_url: http://i.imgur.com/hvralOg.png
 자, 이제 저희 팀원들을 소개해 드릴게요. 
 
 <img src="http://i.imgur.com/JckyQcU.png">
-
-(세계적 패션 저널리스트 수지멘키스(Suzy Menkes)와 함께한 팀원들>
+(세계적 패션 저널리스트 수지멘키스(Suzy Menkes)와 함께한 팀원들)
 
 저희 StyleShare팀은 20대부터 40대까지 다양한 연령대의 멤버들로 구성되어 있습니다. 5:5 환상의 남녀 성비로 밸런스가 잘 이루어진, 함께 일한 지 벌써 4년 이상 된 단단한 팀입니다. ☺ 
 
 이제, 각 팀을 소개해드립니다. 먼저 개발팀! 
 
-<사진필요함> 
+<img src="http://i.imgur.com/kIEgkL3.png" width=320>
 
 수 백만 사용자들이 단 0.1초라도 더 빠르게, 어디에서든 버그 없이 안정적으로 스타일을 공유할 수 있도록 StyleShare 플랫폼을 개발하고 운영하는 개발팀. 포털에서 유수의 대국민 서비스를 개발하셨던 CTO 형님의 안정적인 지휘와 뛰어난 창의력과 대응력을 지닌 아우 개발자들의 환상적인 팀웍을 자랑하는 팀입니다. 
 
@@ -117,12 +116,12 @@ Slack을 통해 팀별로, 프로젝트별, 이슈별로 방이 개설되어 있
 
 <img src="http://i.imgur.com/h9L2jmK.png" height=320>
 
-지저분한 사무실 사진을 여러장 붙이고 나니 조금 부끄럽습니다. (팀원들에게 혼날지도 모르겠네요) 
+지저분한 사무실 사진을 여러장 붙이고 나니 조금 부끄럽지만... (팀원들에게 혼날지도 모르겠네요) 
 
-하지만 join@stylesha.re 로 연락 주시면, 더 많은 이야기를 들려드릴 수 있습니다. ☺ 
+join@stylesha.re 로 연락 주시면, 더 많은 이야기를 들려드릴 수 있습니다. ☺ 
 
 <img src="http://i.imgur.com/BcqBv9U.png">
 
-Join@stylesha.re 
-함께해요! 
+###Join@stylesha.re 
+###함께해요! 
 
