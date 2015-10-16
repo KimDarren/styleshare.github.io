@@ -22,10 +22,10 @@ og_image_url: http://i.imgur.com/GsdUt6u.png
 
 
 
-#### - [어카운트매니저 (경력) | 비즈니스팀 광고파트 (진행 중)](http://styleshare.github.io/2015/10/16/am_recruit.html)
-#### - [CS담당 (경력) | 비즈니스팀 커머스파트 (진행 중)](http://styleshare.github.io/2015/10/16/cs_recruit.html)
-#### - [MD (경력/신입) | 비즈니스팀 커머스파트 (진행 중)](http://styleshare.github.io/2015/10/15/md_recruit.html)
-#### - [뷰티에디터 (경력) | 마케팅팀 (진행 중)](http://styleshare.github.io/2015/10/15/beautyeditor_recruit.html)
+#### [어카운트매니저 (경력) | 비즈니스팀 광고파트 (진행 중)](http://styleshare.github.io/2015/10/16/am-recruit.html)
+#### [CS담당 (경력) | 비즈니스팀 커머스파트 (진행 중)](http://styleshare.github.io/2015/10/16/cs-recruit.html)
+#### [MD (경력/신입) | 비즈니스팀 커머스파트 (진행 중)](http://styleshare.github.io/2015/10/14/md-recruit.html)
+#### [뷰티에디터 (경력) | 마케팅팀 (진행 중)](http://styleshare.github.io/2015/10/16/beautyeditor-recruit.html)
 
 
 
@@ -36,11 +36,11 @@ og_image_url: http://i.imgur.com/GsdUt6u.png
 스타일쉐어에는 어떤 사람들이 어떻게 일하고 있을까,
 잠깐 저희 사무실로 함께 가보실까요?
 
-<img src="http://i.imgur.com/tJOEgwk.png" width=320> <img src="http://i.imgur.com/fIB4Hzv.png" width=320>
+<img src="http://i.imgur.com/tJOEgwk.png" width="320"><img src="http://i.imgur.com/fIB4Hzv.png" width="320">
 
 어서오세요. 청담사거리 근처에 위치한 스타일쉐어 오피스 입구입니다. ☺
 
-<img src="http://i.imgur.com/HlPXoJ5.png" width=320> <img src="http://i.imgur.com/C7o6Kqy.png" width=320>
+<img src="http://i.imgur.com/HlPXoJ5.png" width="320"> <img src="http://i.imgur.com/C7o6Kqy.png" width="320">
 
 거실에 걸려 있는 Look good, feel good, do good - 자신만의 멋을 추구하며, 충만함을 느끼며, 세상에 이로운 일을 하며 살아가자는 사람들이 모인 공간입니다.
 
@@ -58,23 +58,23 @@ og_image_url: http://i.imgur.com/GsdUt6u.png
 
 이제, 각 팀을 소개해드립니다. 먼저 개발팀!
 
-<img src="http://i.imgur.com/kIEgkL3.png" width=320>
+<img src="http://i.imgur.com/kIEgkL3.png" width="320">
 
 수 백만 사용자들이 단 0.1초라도 더 빠르게, 어디에서든 버그 없이 안정적으로 스타일을 공유할 수 있도록 StyleShare 플랫폼을 개발하고 운영하는 개발팀. 포털에서 유수의 대국민 서비스를 개발하셨던 CTO 형님의 안정적인 지휘와 뛰어난 창의력과 대응력을 지닌 아우 개발자들의 환상적인 팀웍을 자랑하는 팀입니다.
 
 다음은 StyleShare의 모든 시각적 경험을 만들어내는 디자인팀입니다. 한 때 Reddot 디자인어워드 – IDEA 어워드를 휩쓸었지만, 대회는 관심없다고 말씀하십니다. UI부터 편집, 영상, 인테리어까지 분야를 넘나듭니다.
 
-<img src="http://i.imgur.com/iw9Vkdh.png" width=320> <img src="http://i.imgur.com/XcVHdDA.png" width=320>
+<img src="http://i.imgur.com/iw9Vkdh.png" width="320"> <img src="http://i.imgur.com/XcVHdDA.png" width="320">
 
 다음은 마케팅팀!
 
-<img src="http://i.imgur.com/m7WHNIm.png" width=320>
+<img src="http://i.imgur.com/m7WHNIm.png" width="320">
 
 누구보다도 패션을 사랑하는 마케팅팀 멤버들의 임무는 첫째, StyleShare 사용자들이 내일도 즐겁게 커뮤니티에 참여할 수 있도록 알찬 뉴스 준비, 브랜드와의 협업, 이벤트 등 다양한 즐길 거리를 마련하고, 둘째, StyleShare를 아직 모르는 사람들을 찾아 지구 끝까지 달려가서 옷 입는 즐거움을 전파하는 것 입니다.
 
 마지막은, StyleShare가 일반인 뿐만 아니라 패션 업계의 다양한 이해관계자들에게도 가치있는 공간이 될 수 있도록 고민하는, 비즈니스팀을 소개합니다.
 
-<img src="http://i.imgur.com/nAEj5cF.png" width=320>
+<img src="http://i.imgur.com/nAEj5cF.png" width="320">
 
 광고와 커머스에 깊은 경험을 무기로 패션 및 뷰티 브랜드들의 신제품을 스타일쉐어러들에게 가장 먼저 선보일 수 있도록 빠르게 움직여요. 브랜드들이 어떻게 하면 우리 사용자들에게 더 사랑 받을 수 있을지 치열하게 연구하고 아낌없이 조언하는 전문가이기도 하고요. 누구보다 빠르고 정확하게 시장을 분석하고 스타일쉐어의 가치를 높혀가는 그들 덕분에 패션 비즈니스의 미래는 창창하며, 스타일쉐어 오피스의 간식은 항상 풍요롭습니다. 감사합니다! ☺
 
@@ -89,7 +89,7 @@ og_image_url: http://i.imgur.com/GsdUt6u.png
 
 가끔 이런 친구도 손님으로 놀러옵니다.
 
-<img src="http://i.imgur.com/7Sx5s7q.png" width=320>
+<img src="http://i.imgur.com/7Sx5s7q.png" width="320">
 
 (예전 두 번째 사무실 가족이었던 솔잎이의 사무실 방문)
 
@@ -97,7 +97,7 @@ og_image_url: http://i.imgur.com/GsdUt6u.png
 
 저희는 언제 어디서나 정보를 나누고, 현황을 공유하고, 자주 의논합니다.
 
-<img src="http://i.imgur.com/vUQyUiJ.png" width=320>
+<img src="http://i.imgur.com/vUQyUiJ.png" width="320">
 
 (저희는 업무용 메신저로 slack을 사용하고 있습니다.)
 Slack을 통해 팀별로, 프로젝트별, 이슈별로 방이 개설되어 있으며, 누구나 원한다면 사내에서 이루어지는 커뮤니케이션과 의사결정을 볼 수 있습니다. 또한 언제 어디서든 사내 모든 자료에 접근하고 작업할 수 있도록 Google Drive를 통해 합리적인 작업 환경을 갖추고 있습니다.
@@ -111,7 +111,7 @@ Slack을 통해 팀별로, 프로젝트별, 이슈별로 방이 개설되어 있
 
 더 나은 결과를 위해,  이야기하고
 
-<img src="http://i.imgur.com/1kVnvex.png" width=320>
+<img src="http://i.imgur.com/1kVnvex.png" width="320">
 
 또 이야기하고!
 
@@ -123,6 +123,5 @@ join@stylesha.re 로 연락 주시면, 더 많은 이야기를 들려드릴 수 
 
 <img src="http://i.imgur.com/BcqBv9U.png">
 
-###Join@stylesha.re
-###함께해요!
-
+### Join@stylesha.re
+### 함께해요!
