@@ -4,7 +4,7 @@ title: StyleShare MD 채용 (진행 중)
 author: StyleShare
 author-email: join@stylesha.re
 excerpt:  StyleShare 사용자들에게 사랑받을 브랜드를 발굴하여 완판신화를 만들고 브랜드들의 성장을 즐겁게 도와나갈 MD 분을 모십니다.
-publish: false
+publish: true
 og_image_url: http://i.imgur.com/eQK8shR.png
 ---
 
