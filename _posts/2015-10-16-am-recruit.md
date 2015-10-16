@@ -4,7 +4,7 @@ title: StyleShare 광고담당(어카운트매니저) 채용 (진행 중)
 author: StyleShare
 author-email: join@stylesha.re
 excerpt:  StyleShare와 함께 소비자 접점에서 브랜드들의 고민을 즐겁게 풀어나가실 Account Manager을 모십니다! 
-publish: true
+publish: false
 og_image_url: http://i.imgur.com/pje7Qhu.png
 ---
 
