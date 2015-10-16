@@ -4,7 +4,7 @@ title: StyleShare 뷰티에디터 채용 (진행 중)
 author: StyleShare
 author-email: join@stylesha.re
 excerpt: <하늘아래 같은 색조는 없다>는 신조를 갖고 StyleShare 사용자들에게 신진 뷰티 제품과 브랜드를 발굴하여 누구보다 발빠르게 소개할 뷰티에디터를 모집합니다.
-publish: false
+publish: true
 og_image_url: http://i.imgur.com/94lUWbk.png
 ---
 
