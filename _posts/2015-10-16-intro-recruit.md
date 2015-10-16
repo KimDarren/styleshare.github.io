@@ -25,6 +25,7 @@ og_image_url: http://i.imgur.com/GsdUt6u.png
 #### - [어카운트매니저 (경력) | 비즈니스팀 광고파트 (진행 중)](http://styleshare.github.io/2015/10/16/am_recruit.html)
 #### - [CS담당 (경력) | 비즈니스팀 커머스파트 (진행 중)](http://styleshare.github.io/2015/10/16/cs_recruit.html)
 #### - [MD (경력/신입) | 비즈니스팀 커머스파트 (진행 중)](http://styleshare.github.io/2015/10/15/md_recruit.html)
+#### - [뷰티에디터 (경력) | 마케팅팀 (진행 중)](http://styleshare.github.io/2015/10/15/beautyeditor_recruit.html)
 
 
 
