@@ -3,7 +3,7 @@ layout: post
 title: StyleShare CS담당 채용(진행 중)
 author: StyleShare
 author-email: join@stylesha.re
-excerpt: StyleShare의 아리따운 목소리가 되어주실 분을 모십니다. 
+excerpt: StyleShare의 아리따운 목소리가 되어주실 분을 모십니다.
 publish: true
 og_image_url: http://i.imgur.com/9lEWxJ4.png
 ---
