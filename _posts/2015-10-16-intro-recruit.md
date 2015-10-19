@@ -3,7 +3,7 @@ layout: post
 title: No.1 패션모바일서비스 StyleShare에서 함께하실 분을 모십니다. (공고)
 author: StyleShare
 author-email: join@stylesha.re
-excerpt:  안녕하세요, StyleShare 팀에서 올해 두 번째 오픈 리쿠르팅을 진행합니다. 어카운트매니저, MD, CS담당을 모십니다. 많이 지원해주세요!
+excerpt:  안녕하세요, StyleShare 팀에서 올해 두 번째 오픈 리쿠르팅을 진행합니다. 어카운트매니저, MD, CS담당, 뷰티에디터를 모십니다. 많이 지원해주세요!
 publish: true
 og_image_url: http://i.imgur.com/GsdUt6u.png
 ---
