@@ -14,7 +14,7 @@
   title: 글 제목
   author: 작성자 이름
   author-email: 작성자 이메일
-  excerpt: 간단한 설명
+  description: 간단한 설명
   publish: true / false
   ---
   ```
