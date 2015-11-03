@@ -5,7 +5,7 @@ author: StyleShare
 author-email: join@stylesha.re
 excerpt:  StyleShare와 함께 소비자 접점에서 브랜드들의 고민을 즐겁게 풀어나가실 Account Manager을 모십니다!
 publish: ture
-og_image_url: http://i.imgur.com/pje7Qhu.pn
+og_image_url: http://i.imgur.com/pje7Qhu.png
 ---
 
 #StyleShare 비즈니스팀 어카운트매니저 채용 (진행 중)
@@ -49,7 +49,7 @@ StyleShare는 런칭한 지 3년만에 100만 명의 패션뷰티에 깊은 관�
 ###어떻게 지원하면 되나요?
 - join@stylesha.re 으로 자유 형식의 이력서와 자기소개서를 보내주세요. 1 차 인터뷰 일정을 안내해드립니다.
 - 이메일로 지원 시, 다음 형식에 맞춰 제목을 작성해주세요.  (제목: [지원/CS] 홍길동)
-- 지원 기간: ~10월 21일 (채용시 조기 마감)
+- 지원 기간: ~11월 5일 (채용시 조기 마감)
 - 추후 인터뷰를 통해 함께 일하게 될 팀원들을 모두 만나보실 수 있으며, 회사에 대해 궁금하신 점을 자유롭게 질의응답 할 수 있습니다.
 - 회사에 대해 궁금한 점이 있으셔도 편하게 join@stylesha.re 로 이메일 주세요. 친절히 답해 드립니다. ☺
 
