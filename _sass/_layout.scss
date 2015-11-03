@@ -160,3 +160,27 @@
         }
     }
 }
+
+.jobs {
+  width: 100%;
+  text-align: center;
+  margin: 50px;
+}
+
+.jobs thead tr th {
+  border-top: 1px solid $grey-color-light;
+  padding: 16px;
+}
+
+.jobs thead tr th,
+.jobs tbody tr td {
+  border-bottom: 1px solid $grey-color-light;
+  padding: 16px;
+}
+
+.jobs tbody tr {
+  cursor: pointer;
+  &:hover {
+    color: $brand-color;
+  }
+}
