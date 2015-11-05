@@ -7,3 +7,4 @@ logo: "/images/styleshare-logo.png"
 markdown: kramdown
 paginate: 5
 date_format: "%Y년 %m월 %d일"
+gems: [jekyll-paginate]
