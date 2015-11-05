@@ -6,23 +6,26 @@
 
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
-$base-font-size: 16px;
-$small-font-size: $base-font-size * 0.875;
+$base-font-family: 'Apple SD Gothic Neo', Helvetica, Arial, sans-serif;
+$base-font-size:   18px;
+$small-font-size:  14px;
 $base-line-height: 1.5;
+
+$header-height: 60px;
 
 $spacing-unit: 30px;
 
-$text-color: #222222;
-$background-color: white;
-$brand-color: #4ADAAF;
+$text-color:       #404040;
+$background-color: #fff;
+$brand-color:      #666;
+$header-color:     #f3f3f3;
 
-$grey-color: #999999;
-$grey-color-light: #CCCCCC;
-$grey-color-dark: #666666;
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
-$content-width:    800px;
+$content-width:    750px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
@@ -48,5 +51,6 @@ $on-laptop:        800px;
 @import
         "base",
         "layout",
-        "syntax-highlighting"
+        "syntax-highlighting",
+        "markdown"
 ;

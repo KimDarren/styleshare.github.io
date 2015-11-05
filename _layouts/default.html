@@ -45,12 +45,12 @@
   <body>
     <header class="site-header">
       <div class="wrapper">
-        <a href="{{ site.url }}"><img src="{{ site.logo }}" width="30%"></a>
+        <a href="{{ site.url }}" class="site-logo"><img src="{{ site.logo }}" height="36px"></a>
 
         <nav class="site-nav">
-          <a class="page-link" href="http://about.stylesha.re">소개</a>
-          <a class="page-link" href="{{ base_path }}/">블로그</a>
-          <a class="page-link" href="{{ base_path }}/jobs.html">채용정보</a>
+          <a class="page-link" href="http://about.stylesha.re">About</a>
+          <a class="page-link" href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>
+          <a class="page-link" href="{{ base_path }}/jobs.html">We're hiring!</a>
         </nav>
       </div>
     </header>
@@ -63,8 +63,7 @@
 
     <footer class="site-footer">
       <div class="wrapper">
-        © <a href="http://about.stylesha.re">StyleShare Inc.</a> All rights reserved.
-        Powered by <a href="https://pages.github.com/"> GitHub Pages.</a>
+        © 2015 <a href="http://about.stylesha.re">StyleShare Inc.</a>
       </div>
     </footer>
 
