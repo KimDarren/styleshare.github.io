@@ -5,3 +5,4 @@ _site
 .swo
 .*.swp
 .*.swo
+.jekyll-metadata
