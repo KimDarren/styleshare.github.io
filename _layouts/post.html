@@ -8,11 +8,11 @@ layout: default
     <div class="post-meta">
       <span>
       {{ page.date | date: site.date_format }}
-      {% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
+      {% if page.author %}&nbsp;&nbsp;|&nbsp;&nbsp;{{ page.author }}{% endif %}
       </span>
   </header>
 
-  <article class="post-content">
+  <article class="post-content markdown-body">
     {{ content }}
   </article>
 
