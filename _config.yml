@@ -9,6 +9,4 @@ date_format: "%Y년 %m월 %d일"
 gems: [jekyll-paginate]
 
 highlighter: pygments
-markdown: redcarpet
-redcarpet:
-  extensions: [footnotes]
+markdown: kramdown
