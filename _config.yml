@@ -11,4 +11,4 @@ gems: [jekyll-paginate]
 highlighter: pygments
 markdown: redcarpet
 redcarpet:
-  extensions: [footnotes]
+  extensions: [autolink, footnotes, tables]
