@@ -14,7 +14,7 @@ StyleShare 개발팀에서는 스크럼을 활용하여 일을 진행하고 있�
 Planning Poker는 0.5부터 시작해서  1, 3, 5, 8, 13, 20, ... 100과 같이 피보나치 수열로 증가하는 숫자를 가진 카드 덱입니다. 리포터의 설명이 끝난 뒤 스크럼 마스터가 하나, 둘, 셋을 외치면 각자 생각한 일감의 크기에 맞는 카드를 꺼내고, 스크럼 마스터는 구성원들의 추정치가 최대한 가까워지도록 부가설명이나 질문을 유도합니다.[^1]
 
 <figure>
-  <img src="http://blog.controlgroup.com/wp-content/uploads/2015/07/planningpoker.jpg">
+  <img src="/images/2015-11-05-estimator/planningpoker.jpg">
   <figcaption>
   &#9650; Planning Poker는 이렇게 생겼다. (출처: <a href="http://blog.controlgroup.com/2015/07/13/a-modest-proposal-for-planning-poker-alternatives/">Control Group 블로그</a>)
   </figcaption>
