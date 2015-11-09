@@ -2,7 +2,7 @@
 
 ## 포스트 작성 방법
 
-1. `_post` 디렉토리 밑에 [마크다운(Markdown)](http://daringfireball.net/projects/markdown/) 문법으로 포스트를 작성합니다.
+1. `_post` 디렉토리 밑에 [마크다운(Markdown)](https://help.github.com/articles/github-flavored-markdown/) 문법으로 포스트를 작성합니다.
 2. 파일명은 `[yyyy-mm-dd-제목.md]` 으로 작성합니다.
 3. 파일의 최상단에 아래의 템플릿을 추가하여 작성하고, 그 아래에 글 본문을 작성합니다.
 
