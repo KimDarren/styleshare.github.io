@@ -11,7 +11,7 @@ publish: true
 <figure>
     <img src="/images/2014-03-09-feedback-of-styleshare-ver2/10-1.png">
     <figcaption>
-        (짤막한 홍보) <strong><a href="">스타일쉐어 2.0 다운 받으러 가기</a></strong><br />
+        (짤막한 홍보) <strong><a href="https://www.stylesha.re/downloads">스타일쉐어 2.0 다운 받으러 가기</a></strong><br />
         모바일에서 접속하면 앱스토어 또는 구글 플레이로, 웹에서 접속하면 스타일쉐어 웹사이트로 갑니다.
     </figcaption>
 </figure>
