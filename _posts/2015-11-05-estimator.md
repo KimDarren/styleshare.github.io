@@ -13,11 +13,12 @@ StyleShare 개발팀에서는 스크럼을 활용하여 일을 진행하고 있�
 
 Planning Poker는 0.5부터 시작해서  1, 3, 5, 8, 13, 20, ... 100과 같이 피보나치 수열로 증가하는 숫자를 가진 카드 덱입니다. 리포터의 설명이 끝난 뒤 스크럼 마스터가 하나, 둘, 셋을 외치면 각자 생각한 일감의 크기에 맞는 카드를 꺼내고, 스크럼 마스터는 구성원들의 추정치가 최대한 가까워지도록 부가설명이나 질문을 유도합니다.[^1]
 
-<center>
-![planning-poker](http://blog.controlgroup.com/wp-content/uploads/2015/07/planningpoker.jpg)
-
-<sup>&#9650; Planning Poker는 이렇게 생겼다. (출처: [Control Group 블로그](http://blog.controlgroup.com/2015/07/13/a-modest-proposal-for-planning-poker-alternatives/))</sup>
-</center>
+<figure>
+  <img src="http://blog.controlgroup.com/wp-content/uploads/2015/07/planningpoker.jpg">
+  <figcaption>
+  &#9650; Planning Poker는 이렇게 생겼다. (출처: <a href="http://blog.controlgroup.com/2015/07/13/a-modest-proposal-for-planning-poker-alternatives/">Control Group 블로그</a>)
+  </figcaption>
+</figure>
 
 하지만 개발팀이 커지면서 불편함이 생기기 시작했습니다. 회의에 참여하는 인원이 7-8명씩 되다 보니, 각자가 어떤 카드를 들고있는지 한눈에 보기가 어려워진 것입니다. StyleShare에서 자칭 아이디어 뱅크 역할을 담당하고 있는 저는 획기적인 방법이 필요하다고 생각했고, 굳이 카드를 꺼내들지 않아도 각자가 무슨 카드를 선택했는지를 쉽게 볼 수 있는 애플리케이션을 만들기로 결심했습니다.
 
