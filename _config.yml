@@ -4,6 +4,7 @@ description: StyleShare 팀원들의 다양한 경험을 공유합니다.
 baseurl: ""
 url: "https://styleshare.github.io"
 logo: "/images/styleshare-logo.png"
+symbol: "/images/styleshare-symbol.png"
 paginate: 5
 date_format: "%Y년 %m월 %d일"
 gems: [jekyll-paginate]
