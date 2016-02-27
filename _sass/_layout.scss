@@ -165,7 +165,15 @@
   display: block;
   padding: 20px;
   margin: auto;
+}
 
+.post-content .tile img {
+  max-width: 100%;
+  display: inline;
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: 0;
+  margin-right: 0;
 }
 
 figcaption {
@@ -212,15 +220,27 @@ a.button:hover {
   padding: 16px;
 }
 
-.jobs thead tr th,
-.jobs tbody tr td {
+.jobs tr td a {
+  display: block;
+  width: 100%;
+  height: 100%;
+  line-height: 3.3;
+  color: $text-color;
+}
+
+.jobs tr td {
+  border-bottom: 1px solid $grey-color-light;
+  padding: 0;
+}
+
+.jobs thead tr th {
   border-bottom: 1px solid $grey-color-light;
   padding: 16px;
 }
 
 .jobs tbody tr {
   cursor: pointer;
-  &:hover {
+  &:hover a {
     color: $brand-color;
   }
 }
