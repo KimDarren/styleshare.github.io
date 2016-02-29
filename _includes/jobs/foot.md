@@ -173,5 +173,5 @@ Slack에 통해 팀별로, 프로젝트별, 이슈별로 채널이 개설되어 
 <center>
 함께해요!
 
-<a href="https://drive.google.com/file/d/0ByVR1w7g6zI4SUlFZ0lxT25GTUE/view?usp=sharing" target="_blank">더 많은 사무실 사진 보기 (링크)</a>
+<a href="https://drive.google.com/folderview?id=0ByVR1w7g6zI4N29hLVVXQ2xBT2s&usp=sharing" target="_blank">더 많은 사무실 사진 보기 (링크)</a>
 </center>
