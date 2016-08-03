@@ -7,6 +7,8 @@ description: 최근 Circle CI에서 Ruby 버전을 2.3으로, CocoaPods 버전�
 publish: true
 ---
 
+최근 Circle CI에서 Ruby 버전을 2.3으로, CocoaPods 버전을 1.0으로 업그레이드함에 따라 발생하는 빌드 문제를 rbenv를 이용해서 해결한 경험을 공유합니다. 최종적으로 완성된 **`Gemfile`**과 **`circle.yml`** 파일은 [마지막 섹션](#conclusion)에서 확인하실 수 있습니다.
+
 ## 1. CocoaPods 1.0
 
 지난 2015년 12월에 CocoaPods 1.0.0 베타 버전이 처음 공개되었습니다. CocoaPods이 1.0 버전으로 업그레이드되면서 [굉장히 많은 변화](http://blog.cocoapods.org/CocoaPods-1.0/)가 있었는데요. 가장 큰 변화는 DSL입니다. 추상 타겟<sup>Abstract Target</sup>과 타겟 상속<sup>Target Inheritance</sup>이 새롭게 소개되면서, 0.39 버전까지 자주 사용되던 `link_with` 및 `:exclusive => true`와 같은 구문이 제거되었습니다.
@@ -171,7 +173,7 @@ dependencies:
 
 위와 같이 **`circle.yml`**를 설정해주면 컨테이너 실행시 **`~/.rbenv`** 디렉토리가 캐시로부터 설정됩니다. 캐싱된 디렉토리를 사용하는 경우 Ruby 버전이 미리 설치되어있기 때문에 `$ rbenv install`시에 `--skip-existing` 옵션을 추가해주어서 캐싱된 버전을 재설치하지 않도록 합니다.
 
-## 5. 마치며
+<h2 id="conclusion">5. 마치며</h2>
 
 최종적으로 완성된 **`Gemfile`**과 **`circle.yml`** 파일은 다음과 같습니다.
 
