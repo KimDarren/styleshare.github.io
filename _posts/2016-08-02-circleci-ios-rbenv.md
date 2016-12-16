@@ -34,7 +34,7 @@ source 'https://rubygems.org'
 gem 'cocoapods', '~> 0.39'
 ```
 
-`$ gem instal bundler` 명령어를 사용하면 **`Gemfile`**에 기재된 의존성 라이브러리들을 설치해줍니다. 이렇게 설치된 CocoaPods을 사용할 때에는 `$ pod COMMAND` 대신 `$ bundle exec pod COMMAND` 명령어를 사용해야 합니다.
+`$ gem install bundler` 명령어를 사용하면 **`Gemfile`**에 기재된 의존성 라이브러리들을 설치해줍니다. 이렇게 설치된 CocoaPods을 사용할 때에는 `$ pod COMMAND` 대신 `$ bundle exec pod COMMAND` 명령어를 사용해야 합니다.
 
 ```console
 $ gem install bundler
